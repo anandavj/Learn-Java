@@ -1,0 +1,11 @@
+jawab post test : 
+
+1.jawab : 
+for(Integer key : kunci){
+  System.out.println(key);
+}
+
+2.jawab : 
+for(BangunDatar bdatar : lbox){
+  System.out.println(bdatar.luas());
+}

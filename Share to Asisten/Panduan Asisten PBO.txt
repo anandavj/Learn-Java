@@ -1,0 +1,24 @@
+Agenda : 
+-Pembagian Asisten per Lab.
+-Materi : bit.ly/asistenPBO
+
+Pembagian Asisten per Lab :
+
+-Jadwal : Kamis 
+ + Kelas A
+ + Kelas B
+ + Kelas C
+
+
+Pada awal praktikum dijelaskan: 
+-smart typing.
+-kesalahan yang umum dlm. pemrog. yang mungkin terjadi.
+-ada post test.
+-tidak ada tugas setelah praktikum.
+
+Total pertemuan : 12x
+
+Materi : 
+-Sebelum UTS : ..... polimorfisme
+
+-Setelah UTS : ..... persistent object 

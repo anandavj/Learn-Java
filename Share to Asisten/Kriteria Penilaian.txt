@@ -1,0 +1,9 @@
+Kriteria Penilaian POST TEST PBO :
+
+-nilai minimal 0 dan maksimal 10.
+-nilai bulat, tidak pecahan.
+-detail poin penilaian : 
+   + ketepatan penyelesaian masalah : max. 5 poin 
+     (kalau hanya kurang titik koma, dikurangi 1 poin,sepanjang bisa menyelesaikan masalah)
+   + kerapian kode : max. 3 poin (1/2/3)
+   + dokumentasi   : max. 2 poin (2/0)

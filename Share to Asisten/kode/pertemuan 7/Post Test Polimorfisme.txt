@@ -1,0 +1,20 @@
+1.Pada praktikum poin b, kelas Bus tidak memiliki method. Tugas anda adalah membuat method callRent, 
+  mengikuti kelas Vehicle (override method callRent). Implementasi callRent pada Bus berbeda dengan
+  callRent pada Vehicle, yaitu fare(tarif) pada bus adalah setengahnya dari fare pada Vechicle !
+  template Jawaban : 
+
+  class Bus extends Vehicle{
+     .......
+  }
+  
+2.Lihat video (yang dishare asisten tentang polimorfisme Shape). Kemudian, buat array yang bisa menampung
+  seluruh kelas yang merupakan turunan dari Vehicle(Car dan Bus). Kemudian hitung biaya sewa 
+  dari masing-masing vehicle di array tersebut jika semua price = 10000 dan distance = 5.
+  template jawaban : 
+ 
+  ....[] arrayOfVehicle = {........};
+  for(.......){
+     ..... //menampilkan biaya
+  }
+   
+

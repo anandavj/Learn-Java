@@ -1,0 +1,20 @@
+Post Test Praktikum 29 Mei 2015 :
+1.Tulis iterasi untuk menampilkan kunci dari kode berikut :
+    Collection<Integer> kunci = map.keySet();
+
+  template* jawaban : 
+  for(.......){
+     ..............
+  }
+  
+2.Tulis iterasi untuk menghitung dan menampilkan seluruh luas BangunDatar (bd,kk1,dsb) pada kelas
+  TesBox.  
+
+  template* jawaban : 
+  for(.......){
+     ..............
+  }
+
+*Template hanya membantu untuk memudahkan dan menyeragamkan jawaban. Boleh jadi, jumlah baris 
+ lebih dari template yang disediakan. Jangan lupa pula untuk menambahkan indentasi dan komentar pada 
+ jawaban anda. 

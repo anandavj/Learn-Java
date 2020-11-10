@@ -1,0 +1,19 @@
+1. Kemungkinan jawaban (asisten only): 
+   class Bus extends Vehicle{
+     void callRent(int distance, float price){
+      float fare = super.callRent(distance,price) * 1/2;
+      System.out.println("vehicle price = "+fare);
+     }
+  }
+
+   class Bus extends Vehicle{
+     void callRent(int distance, float price){
+       float fare = distance * price * 1/2;
+       System.out.println("vehicle price = "+fare);
+     }
+   }
+
+2. Vehicle[] arrayOfVehicle = {new Bus(), new Car()};
+   for(int i = 0 ; i<arrayOfVehicle.length ; i++){
+     vehicle[i].callRent(5,10000);
+   }
